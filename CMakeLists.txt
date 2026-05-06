@@ -9,4 +9,6 @@ add_executable(SProcessor main.cpp
         gate.cpp
         gate.h
         alu.cpp
-        alu.h)
+        alu.h
+        cpu.cpp
+        cpu.h)
