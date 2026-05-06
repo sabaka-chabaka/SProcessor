@@ -1,7 +1,8 @@
-#pragma once
-
 #ifndef SPROCESSOR_TRANSISTOR_H
 #define SPROCESSOR_TRANSISTOR_H
+
+#pragma once
+
 
 enum class TransistorType { NMOS, PMOS };
 

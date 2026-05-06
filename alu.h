@@ -1,7 +1,8 @@
-#pragma once
-
 #ifndef SPROCESSOR_ALU_H
 #define SPROCESSOR_ALU_H
+
+#pragma once
+
 #include <cstdint>
 
 struct AluResult {

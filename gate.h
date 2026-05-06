@@ -1,7 +1,8 @@
-#pragma once
-
 #ifndef SPROCESSOR_GATE_H
 #define SPROCESSOR_GATE_H
+
+#pragma once
+
 #include "transistor.h"
 
 class NotGate {
