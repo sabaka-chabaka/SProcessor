@@ -3,4 +3,6 @@ project(SProcessor)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(SProcessor main.cpp)
+add_executable(SProcessor main.cpp
+        transistor.cpp
+        transistor.h)
