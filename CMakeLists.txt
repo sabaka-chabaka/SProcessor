@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(SProcessor main.cpp
         transistor.cpp
-        transistor.h)
+        transistor.h
+        gate.cpp
+        gate.h)
